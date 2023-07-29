@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(193, 204, 200);
+    text-align: center;
+    }
+h1{
+    color: rgb(12, 13, 14);
+}
+ body{
+    background-color: rgb(92, 102, 99);
+}
+img{
+    height: 180px;
+}
+footer{
+    background-color: rgb(171, 180, 177);
+    text-align: center;
+}
+.contact{
+    background-color: rgb(92, 102, 99);
+}
+.about{
+    background-color: rgb(133, 146, 142);
+}
